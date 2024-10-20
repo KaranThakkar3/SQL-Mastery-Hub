@@ -1,6 +1,6 @@
-# SQL-Mastery
+# SQL-Mastery-Hub
 
-Welcome to the **SQL-Mastery** repository! This collection was created to enhance my own understanding of SQL while sharing valuable resources and solutions with others. It demonstrates robust SQL skills through problem-solving, core concept explanations, and practical use cases. The repository includes solutions to LeetCode's top 50 SQL questions, in-depth explanations of essential SQL features, and advanced queries to challenge your SQL knowledge.
+Welcome to the **SQL-Mastery-Hub** repository! This collection was created to enhance my own understanding of SQL while sharing valuable resources and solutions with others. It demonstrates robust SQL skills through problem-solving, core concept explanations, and practical use cases. The repository includes solutions to LeetCode's top 50 SQL questions, in-depth explanations of essential SQL features, and advanced queries to challenge your SQL knowledge.
 
 ## Table of Contents
 1. [SQL Concepts](#sql-concepts)
