@@ -37,9 +37,3 @@ The [Advanced Queries](./Advanced%20Queries) folder includes complex SQL queries
 - Nested subqueries
 
 This section is for those who want to challenge themselves with more sophisticated SQL problems.
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/SQL-Mastery.git
