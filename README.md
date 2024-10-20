@@ -1,59 +1,42 @@
-# SQL-Mastery-Hub
+# SQL-Mastery
 
-Welcome to the **SQL-Mastery-Hub** repository! This collection was created to enhance my own understanding of SQL while sharing valuable resources and solutions with others. It demonstrates robust SQL skills through problem-solving, core concept explanations, and practical use cases. The repository includes solutions to LeetCode's top 50 SQL questions, in-depth explanations of essential SQL features, and real-world scenarios for applying SQL skills.
+Welcome to the **SQL-Mastery** repository! This collection was created to enhance my own understanding of SQL while sharing valuable resources and solutions with others. It demonstrates robust SQL skills through problem-solving, core concept explanations, and practical use cases. The repository includes solutions to LeetCode's top 50 SQL questions, in-depth explanations of essential SQL features, and advanced queries to challenge your SQL knowledge.
 
 ## Table of Contents
-1. [LeetCode SQL Solutions](#leetcode-sql-solutions)
-2. [SQL Basics and Advanced Concepts](#sql-basics-and-advanced-concepts)
-    - [Window Functions](#window-functions)
-    - [Subqueries](#subqueries)
-    - [Common Table Expressions (CTEs)](#common-table-expressions-ctes)
-3. [Practical Use Cases](#practical-use-cases)
+1. [SQL Concepts](#sql-concepts)
+2. [LeetCode SQL Solutions](#leetcode-sql-solutions)
+3. [Advanced Queries](#advanced-queries)
 
+## SQL Concepts
+
+The [SQL Concepts](./SQL%20Concepts) folder contains around 20 `.sql` files, each demonstrating a specific SQL concept. These include:
+- Window Functions
+- Common Table Expressions (CTEs)
+- Data Definition Language (DDL)
+- Subqueries
+- Stored Procedures
+- And more...
+
+Each file provides examples and explanations to help deepen your understanding of individual SQL features.
 
 ## LeetCode SQL Solutions
 
-This section contains solutions to the top 50 LeetCode SQL problems. Each solution includes:
+The [LeetCode SQL Solutions](./Leetcode%20SQL%20Solutions) folder contains solutions to the top 50 LeetCode SQL problems. Each solution includes:
 - The problem statement
 - The SQL solution
-- An explanation of the approach
+- An explanation of the approach used to solve the problem
 
-Find the solutions [here](./LeetCode-SQL).
+This section is ideal for those seeking to improve problem-solving skills using SQL.
 
-## SQL Basics and Advanced Concepts
+## Advanced Queries
 
-### Window Functions
+The [Advanced Queries](./Advanced%20Queries) folder includes complex SQL queries that push you to think beyond the basics. These queries involve advanced logic and techniques, such as:
+- Recursive queries
+- Analytical functions
+- Performance optimization
+- Nested subqueries
 
-Learn how window functions enable complex data analysis without aggregating results. See examples with:
-- `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`
-- `NTILE()`, `LEAD()`, `LAG()`
-
-[View window function examples](./SQL-Concepts/Window-Functions.md).
-
-### Subqueries
-
-Understand how to use subqueries in various scenarios:
-- Correlated vs. uncorrelated subqueries
-- Using subqueries in `SELECT`, `WHERE`, and `FROM` clauses
-
-[View subquery examples](./SQL-Concepts/Subqueries.md).
-
-### Common Table Expressions (CTEs)
-
-Master the use of CTEs for better readability and maintainability in complex queries:
-- Recursive CTEs
-- Using CTEs with multiple query steps
-
-[View CTE examples](./SQL-Concepts/CTEs.md).
-
-## Practical Use Cases
-
-Explore practical scenarios where SQL is applied to solve real-world data problems:
-- **Data Cleaning**: Techniques for handling missing or inconsistent data
-- **Reporting and Analytics**: Creating summary tables and dashboards
-- **Database Design**: Demonstrating normalization and database schema creation
-
-Find these use cases [here](./Practical-Use-Cases).
+This section is for those who want to challenge themselves with more sophisticated SQL problems.
 
 ## How to Use
 
